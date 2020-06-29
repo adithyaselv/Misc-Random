@@ -4,3 +4,4 @@
 * [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/Gödel-Escher-Bach-Eternal-Golden/dp/0465026567)
 * [Zen and the Art of Motorcycle Maintenance: An Inquiry into Values](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)
 * [When Breath Becomes Air](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X)
+* [Theory of Games and Economic Behavior](https://www.amazon.com/Theory-Games-Economic-Behavior-Commemorative/dp/0691130612)
